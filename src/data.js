@@ -4,19 +4,19 @@ export const projects = [
       "MAPNA Turbine Blade Engineering and Manufacturing Company (PARTO)",
     type: "SAP ECC6 implementation",
     responsibilities:
-      "Consulting and Configuration of PP-SF, Integration Manager: between PP, QM, PM and PS modules,Configuration and Full migration of Master Data,Testing, training and supporting activities ",
+      "Consulting and configuration of PP-SF, integration Manager: between PP, QM, PM and PS modules,preparation and full migration of Master Data,Testing, training and supporting activities ",
   },
   {
     company: "MAPNA Generator Engineering and Manufacturing Company (PARS)",
     type: "SAP ECC6 implementation",
     responsibilities:
-      "Consulting and Configuration of PP-SF,Configuration and Full migration of Master Data,Testing, training and supporting activities ",
+      "Consulting and configuration of PP-SF,preparation and full migration of master data,testing, training and supporting activities ",
   },
   {
     company: "MAPNA Boiler and Equipment Engineering and Manufacturing Company",
     type: "SAP ECC6 implementation",
     responsibilities:
-      "Logistics Team Lead & Project manager assistant, Consulting PLM",
+      "Logistics Team Lead & Project manager assistant, consulting PLM",
   },
   {
     company:

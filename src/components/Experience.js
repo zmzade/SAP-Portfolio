@@ -4,7 +4,7 @@ import { experiences } from "../data";
 
 const Experience = () => {
   return (
-    <section id="experiences" className="text-gray-400 bg-gray-900 body-font">
+    <section id="experiences" className="text-gray-300 bg-gray-900 body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <BriefcaseIcon className="mx-auto inline-block w-10 mb-4" />
@@ -15,7 +15,7 @@ const Experience = () => {
         <div className="flex flex-wrap m-4">
           {experiences.map((work) => (
             <div key={work.position} className="p-4 md:w-1/2 w-full">
-              <div className="h-full bg-gray-400 bg-opacity-40 p-8 rounded">
+              <div className="h-full bg-gray-700 bg-opacity-40 p-8 rounded">
                 <div className="inline-flex items-center">
                   <span className="flex-grow flex flex-col pl-4">
                     <img
@@ -31,7 +31,7 @@ const Experience = () => {
                       {work.company}
                     </span>
                     <br />
-                    <span className="text-gray-400 text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">
+                    <span className="text-gray-300 text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">
                       {work.date}
                     </span>
                     <hr />
