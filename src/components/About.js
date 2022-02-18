@@ -19,7 +19,7 @@ const About = () => {
             <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4 mt-8 animate__animated animate__flash animate__slow animate__delay-4s text-shadow sm:text-shadow-sm md:text-shadow-md">
               About Me
             </h1>
-            <p className="mb-8 leading-relaxed text-white">
+            <p className="mb-8 leading-relaxed text-white p-2">
               Hi! My name is Jalal. I am passionate about SAP and finding
               solutions for the business needs. I consider myself as a solution
               provider who enjoys share knowledge and support business. I

@@ -1,7 +1,7 @@
 import React from "react";
 import { certificates } from "../data";
 import { BadgeCheckIcon, DocumentTextIcon } from "@heroicons/react/solid";
-import certificate from "../assets/certificate2.jpg";
+import certificate from "../assets/certificate.jpg";
 
 const Certificates = () => {
   return (
@@ -27,12 +27,10 @@ const Certificates = () => {
                 key={cerificate}
                 className="bg-gray-800 rounded flex p-2 h-full m-1"
               >
-                {/* <div className="bg-gray-800 rounded flex p-4 h-full items-center"> */}
                 <BadgeCheckIcon className="text-amber-600 w-6 h-6 flex-shrink-0 mr-4" />
                 <span className="title-font font-medium text-white">
                   {cerificate}
                 </span>
-                {/* </div> */}
               </div>
             ))}
           </div>

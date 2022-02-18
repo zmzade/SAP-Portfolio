@@ -50,7 +50,7 @@ export const experiences = [
       "SAP PLM 7 and SAP PDR, Production master data, Technical message(TM), Production and shop floor control, SAP IBP demand",
   },
   {
-    logo: require("./assets/mapna1.png"),
+    logo: require("./assets/mapna.png"),
     position: "Logistics Team Lead ",
     company: "MAPNA Group",
     date: "May 2011 - Aug 2016",
@@ -76,12 +76,12 @@ export const certificates = [
 ];
 
 export const skills = [
-  "SAP Consultant in Logistics area:PP,QM,PS",
-  "SAP PLM: PSM,GSS,VC,PDR",
+  "SAP consultant in logistics area: PP, QM, PS",
+  "SAP PLM: PSM, GSS, VC, PDR",
   "Production master data Knowledge and Migration tools",
   "Integration knowledge between logistics and FI/CO",
-  "SAP Best practice trainer",
-  "SAP Testing (Unit Test, Iintegration Test, User Acceptabce Test)",
+  "SAP best practice trainer",
+  "SAP testing (Unit Test, Iintegration Test, User Acceptabce Test)",
 ];
 export const programmingSkills = [
   "Professional Microsoft Excel user (VBA coding and using advanced functions) ",

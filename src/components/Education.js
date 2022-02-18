@@ -25,7 +25,7 @@ const Education = () => {
                     />
                   </span>
                   <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-white text-shadow sm:text-shadow-sm md:text-shadow-md">
+                    <span className="title-font font-medium text-teal-400 text-shadow sm:text-shadow-sm md:text-shadow-md">
                       {education.degree}
                     </span>
                     <span className="text-gray-300 text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">

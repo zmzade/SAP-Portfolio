@@ -8,6 +8,7 @@ module.exports = {
         gray: colors.gray,
         lightBlue: "#304ffe",
         amber: colors.amber,
+        teal: colors.teal,
       },
       textShadow: {
         default: "0 2px 0 #000",
