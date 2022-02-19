@@ -1,6 +1,6 @@
 import React from "react";
 import "animate.css";
-import img1 from "../assets/photo1.jpg";
+import img1 from "../assets/photo.jpg";
 import img2 from "../assets/family.jpg";
 
 const About = () => {
