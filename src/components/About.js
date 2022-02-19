@@ -33,16 +33,16 @@ const About = () => {
             </p>
             <div className="flex justify-center">
               <a
-                href="#contact"
+                href="#projects"
                 className="inline-flex text-white bg-amber-600 border-0 py-2 px-3 focus:outline-none hover:bg-amber-700 rounded text-lg text-shadow sm:text-shadow-sm md:text-shadow-md"
               >
-                Work With Me
+                SAP projects
               </a>
               <a
                 href="#experiences"
                 className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg text-shadow sm:text-shadow-sm md:text-shadow-md"
               >
-                See My Past Work
+                Work Experiences
               </a>
             </div>
           </div>

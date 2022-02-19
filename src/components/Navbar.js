@@ -22,13 +22,13 @@ const Navbar = () => {
             href="#experiences"
             className="mr-5 hover:text-white text-shadow sm:text-shadow-sm md:text-shadow-md"
           >
-            Past Work
+            Work Experiences
           </a>
           <a
-            href="#skills"
+            href="#projects"
             className="mr-5 hover:text-white text-shadow sm:text-shadow-sm md:text-shadow-md"
           >
-            Skills
+            Projects
           </a>
           <a
             href="https://www.linkedin.com/in/jmasoumi/"
@@ -42,7 +42,7 @@ const Navbar = () => {
           </a>
           <PhoneIcon className="w-4 h-4 ml-1 " />
           <p className="text-shadow sm:text-shadow-sm md:text-shadow-md">
-            : 91973388
+            : (+45) 91973388
           </p>
         </nav>
         <a
