@@ -75,8 +75,7 @@ const Contact = () => {
           </h2>
           <p className="text-white leading-relaxed mb-5">
             Hi! I am looking forward hearing from you. I love new ideas and
-            enjoy new challenges. So feel free to contact me, I am always open
-            to discuss about new opportunities.
+            enjoy new challenges. So feel free to contact me.
             <span>
               <EmojiHappyIcon className="mx-auto inline-block w-5" />
             </span>

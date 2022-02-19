@@ -22,7 +22,7 @@ const About = () => {
             <p className="mb-8 leading-relaxed text-white p-4">
               Hi! My name is Jalal. I am passionate about SAP and finding
               solutions for the business needs. I consider myself as a solution
-              provider who enjoys share knowledge and support business. I
+              provider who enjoys knowledge sharing and support business. I
               started learning SAP 12 years ago and during my career, I have
               been in various positions like SAP User, SAP key user, SAP
               Consultant (Logistics area) and SAP logistics team lead. I
