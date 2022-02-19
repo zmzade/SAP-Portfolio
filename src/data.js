@@ -4,7 +4,7 @@ export const projects = [
       "MAPNA Turbine Blade Engineering and Manufacturing Company (PARTO)",
     type: "SAP ECC6 implementation",
     responsibilities:
-      "Consulting and configuration of PP-SF, integration Manager: between PP, QM, PM and PS modules,preparation and full migration of Master Data,Testing, training and supporting activities ",
+      "Consulting and configuration of PP-SF, integration Manager: between PP, QM, PM and PS modules,preparation and full migration of master data,testing, training and supporting activities ",
   },
   {
     company: "MAPNA Generator Engineering and Manufacturing Company (PARS)",
@@ -16,13 +16,13 @@ export const projects = [
     company: "MAPNA Boiler and Equipment Engineering and Manufacturing Company",
     type: "SAP ECC6 implementation",
     responsibilities:
-      "Logistics Team Lead & Project manager assistant, consulting PLM",
+      "Logistics team lead & project manager assistant, consulting PLM",
   },
   {
     company:
       "Sepahan MAPNA Engineering & Equipment Manufacturing Company (STS)",
-    type: "Feasibility Study and SAP ECC6 implementation",
-    responsibilities: "Logistics Team Lead, Consulting PLM, Data Migration",
+    type: "Feasibility study and SAP ECC6 implementation",
+    responsibilities: "Logistics team lead, consulting PLM, data migration",
   },
 ];
 
@@ -47,7 +47,7 @@ export const experiences = [
     company: "MAN ES (Denmark Branch)",
     date: "Sep 2017 - Present",
     responsibilities:
-      "SAP PLM 7 and SAP PDR, Production master data, Technical message(TM), Production and shop floor control, SAP IBP demand",
+      "SAP PLM 7 and SAP PDR, production master data, technical message(TM), production and shop floor control, SAP IBP demand",
   },
   {
     logo: require("./assets/mapna.png"),
@@ -55,7 +55,7 @@ export const experiences = [
     company: "MAPNA Group",
     date: "May 2011 - Aug 2016",
     responsibilities:
-      "Project Manager assistant, Logistics Team Lead, Consulting and Configuration, Integration Manager",
+      "Project manager assistant, logistics team lead, consulting and configuration, integration manager",
   },
   {
     logo: require("./assets/tuga.png"),
@@ -63,13 +63,13 @@ export const experiences = [
     company: "MAPNA Turbine Engineering and Manufacturing Company ",
     date: "Aug 2009 - May 2011",
     responsibilities:
-      "Master data maintenance and support, Creating PP related reports, Testing, training, and supporting activities  ",
+      "Master data maintenance and support, creating PP related reports, testing, training, and supporting activities  ",
   },
 ];
 export const certificates = [
-  "Basic data for Manufacturing and product Management (PLM 114)",
-  "Business Processes in Planning(SCM100)",
-  "SAP Planning and Manufacturing overview (SCM130)",
+  "Basic Data for Manufacturing and Product Management (PLM 114)",
+  "Business Processes in Planning (SCM100)",
+  "SAP Planning and Manufacturing Overview (SCM130)",
   "Consumption-Based Planning and Forecasting (SCM525)",
   "Production Orders (SCM310)",
   "Batch Management (SCM595)",

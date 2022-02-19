@@ -8,18 +8,18 @@ const About = () => {
     <section id="about">
       <div className=" mx-auto flex px-3 py-5 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:flex-grow lg:flex-row md:w-1/2 lg:px-10 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <div className="container lg:px-10 mx-auto flex md:flex-row flex-col">
+          <div className="container lg:px-0 mx-auto flex md:flex-row flex-col">
             <img
-              className="object-cover object-center p-5 w-full h-full animate__animated animate__rotateIn animate__slow"
+              className="object-cover object-center lg:p-5 py-2 w-full h-full animate__animated animate__rotateIn animate__slow"
               alt="my photo with my son"
               src={img1}
             />
           </div>
-          <div className="container lg:px-10 mx-auto md:flex-row flex-col ">
-            <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4 mt-8 animate__animated animate__flash animate__slow animate__delay-4s text-shadow sm:text-shadow-sm md:text-shadow-md">
+          <div className="container lg:px-2 mx-auto md:flex-row flex-col">
+            <h1 className="sm:text-3xl  px-4 text-3xl font-medium title-font text-white mb-4 mt-8 animate__animated animate__flash animate__slow animate__delay-4s text-shadow sm:text-shadow-sm md:text-shadow-md">
               About Me
             </h1>
-            <p className="mb-8 leading-relaxed text-white p-2">
+            <p className="mb-8 leading-relaxed text-white p-4">
               Hi! My name is Jalal. I am passionate about SAP and finding
               solutions for the business needs. I consider myself as a solution
               provider who enjoys share knowledge and support business. I
@@ -34,21 +34,21 @@ const About = () => {
             <div className="flex justify-center">
               <a
                 href="#contact"
-                className="inline-flex text-white bg-amber-600 border-0 py-2 px-6 focus:outline-none hover:bg-amber-700 rounded text-lg text-shadow sm:text-shadow-sm md:text-shadow-md"
+                className="inline-flex text-white bg-amber-600 border-0 py-2 px-3 focus:outline-none hover:bg-amber-700 rounded text-lg text-shadow sm:text-shadow-sm md:text-shadow-md"
               >
                 Work With Me
               </a>
               <a
-                href="#projects"
+                href="#experiences"
                 className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg text-shadow sm:text-shadow-sm md:text-shadow-md"
               >
                 See My Past Work
               </a>
             </div>
           </div>
-          <div className="container mx-auto lg:px-10 flex md:flex-row flex-col mt-12 lg:mt-0">
+          <div className="container mx-auto lg:px-0 flex md:flex-row flex-col mt-12 lg:mt-0">
             <img
-              className="object-cover object-center w-full h-full p-5 animate__animated animate__rotateIn animate__slow"
+              className="object-cover object-center w-full h-full lg:p-5 py-2 animate__animated animate__rotateIn animate__slow"
               alt="my photo with my son"
               src={img2}
             />

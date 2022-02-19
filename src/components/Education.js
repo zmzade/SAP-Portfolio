@@ -28,10 +28,10 @@ const Education = () => {
                     <span className="title-font font-medium text-teal-400 text-shadow sm:text-shadow-sm md:text-shadow-md">
                       {education.degree}
                     </span>
-                    <span className="text-gray-300 text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">
+                    <span className="text-white text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">
                       {education.university}
                     </span>
-                    <span className="text-gray-400 text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">
+                    <span className="text-gray-200 text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">
                       {education.date}
                     </span>
                   </span>

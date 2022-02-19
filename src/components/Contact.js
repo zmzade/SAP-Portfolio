@@ -71,7 +71,7 @@ const Contact = () => {
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font text-shadow sm:text-shadow-sm md:text-shadow-md">
-            Hire Me
+            Contact Me
           </h2>
           <p className="text-white leading-relaxed mb-5">
             Hi! I am looking forward hearing from you. I love new ideas and

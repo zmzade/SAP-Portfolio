@@ -35,7 +35,7 @@ const Experience = () => {
                       {work.date}
                     </span>
                     <hr />
-                    <span className="text-gray-300 text-sm uppercase text-shadow sm:text-shadow-sm md:text-shadow-md">
+                    <span className="text-gray-300 text-sm text-shadow sm:text-shadow-sm md:text-shadow-md">
                       {work.responsibilities}
                     </span>
                   </span>
