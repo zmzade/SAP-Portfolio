@@ -1,13 +1,13 @@
 import React from "react";
 import "animate.css";
 import img1 from "../assets/photo1.jpg";
-import img2 from "../assets/photo2.jpg";
+import img2 from "../assets/family.jpg";
 
 const About = () => {
   return (
     <section id="about">
       <div className=" mx-auto flex px-3 py-5 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:flex-grow lg:flex-row md:w-1/2 lg:px-10 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+        <div className="lg:flex-grow md:flex-grow lg:flex-row md:w-1/2 lg:px-5 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <div className="container lg:px-0 mx-auto flex md:flex-row flex-col">
             <img
               className="object-cover object-center lg:p-5 py-2 w-full h-full animate__animated animate__rotateIn animate__slow"
