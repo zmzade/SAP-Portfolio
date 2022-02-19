@@ -21,7 +21,7 @@ const Experience = () => {
                     <img
                       alt="logos"
                       src={work.logo}
-                      className="w-20  rounded  flex-shrink-0 object-cover object-center"
+                      className="w-20 rounded md:mb-4 flex-shrink-0 object-cover object-center"
                     />
 
                     <span className="title-font font-medium text-amber-600 text-shadow sm:text-shadow-sm md:text-shadow-md">
