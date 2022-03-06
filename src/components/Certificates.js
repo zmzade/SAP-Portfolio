@@ -27,8 +27,8 @@ const Certificates = () => {
                 key={cerificate}
                 className="bg-gray-800 rounded flex p-2 h-full m-1 md:p-0"
               >
-                <BadgeCheckIcon className="text-amber-600 w-6 h-6 flex-shrink-0 mr-4" />
-                <span className="title-font font-medium text-white">
+                <BadgeCheckIcon className="text-amber-600 w-6 h-6 flex-shrink-0 mx-5 my-4 " />
+                <span className="title-font font-medium text-white py-4">
                   {cerificate}
                 </span>
               </div>

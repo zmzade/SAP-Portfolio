@@ -7,10 +7,10 @@ const About = () => {
   return (
     <section id="about">
       <div className=" mx-auto flex px-3 py-5 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:flex-grow lg:flex-row md:w-1/2 lg:px-5 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <div className="container lg:px-0 mx-auto flex md:flex-row flex-col">
+        <div className="lg:flex-grow md:flex-grow   lg:flex-row md:w-1/2 lg:px-5 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <div className="container lg:px-0 mx-auto flex md:flex-row flex-col ">
             <img
-              className="object-cover object-center lg:p-5 py-2 w-full h-full animate__animated animate__rotateIn animate__slow"
+              className="object-cover object-center rounded-large lg:p-5 py-2 w-full h-full animate__animated animate__rotateIn animate__slow"
               alt="my photo with my son"
               src={img1}
             />
@@ -48,7 +48,7 @@ const About = () => {
           </div>
           <div className="container mx-auto lg:px-0 flex md:flex-row flex-col mt-12 lg:mt-0">
             <img
-              className="object-cover object-center w-full h-full lg:p-5 py-2 animate__animated animate__rotateIn animate__slow"
+              className="object-cover object-center rounded-large w-full h-full lg:p-5 py-2 animate__animated animate__rotateIn animate__slow"
               alt="my photo with my son"
               src={img2}
             />
